@@ -31,4 +31,4 @@ Using a PDF library, you created a structured document with:
 After formatting the content, you generated the PDF and saved it. You then checked the document to ensure everything was structured correctly before sharing or storing it.
 
 *OUTPUT* :
-
+![Image](https://github.com/user-attachments/assets/31251fd8-66a5-49ff-94ab-e05bdfa066f7)
