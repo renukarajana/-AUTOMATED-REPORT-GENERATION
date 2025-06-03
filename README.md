@@ -30,5 +30,4 @@ Using a PDF library, you created a structured document with:
 5. Exporting and Reviewing the Report
 After formatting the content, you generated the PDF and saved it. You then checked the document to ensure everything was structured correctly before sharing or storing it.
 
-*OUTPUT* :
 ![Image](https://github.com/user-attachments/assets/886a5e1e-d68a-48b1-843c-03c2e74abe46)
